@@ -1,6 +1,7 @@
 ### Data Analysis LinkedIn course stuff.
 
 This learning path is eligible for a Professional Certificate from Microsoft.
+
 Additional Certs eligible by the National Association of State Boards of Accountancy (NASBA)
 
 
